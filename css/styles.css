@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 #title{
-    background-color: #ff4c68;
+    background-color: #99FEFF;
     color: white;
 }
 h3{
@@ -50,10 +50,10 @@ h3{
 .features-icon{
     padding-top: 2.5rem;
     font-size: 4rem;
-    color: #ff4c68;
+    color: #99FEFF;
 }
 .features-icon:hover{
-    color: #FFAFAF;
+    color: #94B3FD;
 }
 .F-Box{
     padding: 0 25%;
@@ -61,7 +61,7 @@ h3{
 
 /* Testimonials */
 #testimonials{
-    background-color: #ff4c68;
+    background-color: #99FEFF;
     color: white;
     padding: 7% 15%;
     text-align: center;
@@ -81,7 +81,7 @@ h3{
 }
 /* Press */
 #press{
-    background-color: #ff4c68;
+    background-color: #99FEFF;
     text-align: center;
     padding-bottom: 5%;
 }
@@ -112,7 +112,7 @@ h3{
 
 /* call to action */
 #cta{
-    background-color: #ff4c68;   
+    background-color: #99FEFF;   
     color: white;
     text-align: center;
     padding: 3% 0 0 0;
@@ -125,7 +125,7 @@ h3{
 }
 /* Footer */
 #footer{
-    background-color: #ff4c68;
+    background-color: #99FEFF;
     color: white;
     margin-bottom: 0;
 }
